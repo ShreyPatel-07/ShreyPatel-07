@@ -4,6 +4,10 @@
 - 🌱 I’m currently learning MERN STACK FULL STACK DEVELOPMENT
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on Shreypatel2468642@gmail.com
+## PROJECTS
+## SKILLS
+## EDUCATION
+## CONTACT
 
 <!---
 ShreyPatel-07/ShreyPatel-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
