@@ -7,9 +7,10 @@
 - HTML
 - CSS
 - JavaScript
-- ReactJs
-- NodeJs
+- React.Js
+- Node.Js
 - MongoDB
+- Express.Js
 ## EDUCATION
 - 👨‍🎓 Bachelor's Degree in Information and Communication Technology (ICT) from Dhirubhai Ambani Institute of Information and Communication Technology (DA-IICT).
 - 📚 Relevant coursework: Data Structures, Algorithms, Software Engineering(SE), Operating System (OS), Data Base Management System (DBMS).
